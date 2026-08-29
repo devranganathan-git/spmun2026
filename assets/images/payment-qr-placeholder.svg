@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360">
+  <rect width="360" height="360" fill="#fff"/>
+  <rect x="12" y="12" width="336" height="336" rx="8" fill="none" stroke="#d0d0d0" stroke-width="4"/>
+  <text x="180" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#0a2142">OFFICIAL PAYMENT</text>
+  <text x="180" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#0a2142">QR CODE</text>
+  <text x="180" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#b58a2a">REPLACE BEFORE LAUNCH</text>
+</svg>

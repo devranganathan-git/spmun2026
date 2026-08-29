@@ -1,0 +1,20 @@
+window.SPMUN_CONFIG = {
+  eventName: "SPMUN '26",
+  schoolName: "St. Patrick Higher Secondary School",
+  location: "Puducherry",
+  dates: "30 – 31 October 2026",
+  registrationDeadline: "20 September 2026",
+  phone: "0413-2203418",
+  emails: ["stpatrick2026@gmail.com", "ramyastp2026@gmail.com"],
+  instagram: "@spmun2026",
+  registrationUrl: "#register",
+  registrationFee: "To be announced",
+  paymentUpi: "To be announced",
+  venue: "St. Patrick Higher Secondary School, Puducherry",
+  address: "Street address and PIN to be added",
+  secretaryGeneral: "Name to be announced",
+  directorGeneral: "Name to be announced",
+  paymentQr: "assets/images/payment-qr-placeholder.svg",
+  handbookUrl: "assets/docs/SPMUN26_Delegate_Handbook_V3.pdf",
+  brochureUrl: "assets/docs/SPMUN26_Brochure.pdf"
+};
